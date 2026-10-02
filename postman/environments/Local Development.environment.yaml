@@ -1,0 +1,6 @@
+name: Local Development
+values:
+  - key: access_token
+    value: ''
+  - key: refresh_token
+    value: ''
